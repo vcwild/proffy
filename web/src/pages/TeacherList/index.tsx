@@ -10,7 +10,7 @@ import api from '../../services/api';
 
 
 function TeacherList() {
-  const [teachers, setTeachers] =useState([]);
+  const [teachers, setTeachers] = useState([]);
 
   const [subject, setSubject] = useState('')
   const [week_day, setWeekDay] = useState('')
