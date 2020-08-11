@@ -21,6 +21,7 @@
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [License](#closed_book-license)
 
+-----
 
 ### Web 
 <div>
@@ -28,6 +29,8 @@
    <br />
    <img src="./.github/web-list.png" width="800px">
 </div>
+
+-----
 
 ### Mobile
 <div>
@@ -70,11 +73,11 @@ $ npm start
 ```
 Access API at http://localhost:3333/
 
-### 💻 Run Web Project
+### 💻 Run Web
 
 ```bash
 # Go to web folder
-$ cd ./web
+$ cd "./web"
 
 # Install Dependencies
 $ npm install
@@ -84,7 +87,7 @@ $ npm start
 ```
 Go to http://localhost:3000/ to see the result.
 
-### 📱 Run Mobile Project
+### 📱 Run Mobile
 
 To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
 <br />
@@ -92,7 +95,7 @@ After, fork this repository and clone to your machine. Inside of the project's f
 
 ```bash
 # Go to mobile folder
-$ cd ./mobile
+$ cd "./mobile"
 
 # Install Dependencies
 $ npm install
@@ -104,10 +107,10 @@ Read the QR Code with [expo](https://play.google.com/store/apps/details?id=host.
 
 # :bug: Issues
 
-Feel free to post an [issue](https://github.com/vcwild/proffy/issues) with title and description.
+Found a bug? Feel free to post an [issue](https://github.com/vcwild/proffy/issues) with title and description.
 
 
-<h2 align="left"> 📥 Layout available for download at: </h2>
+## 📥 Download the Layout
 <p align="center">
     <a title="Download .fig Web" href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/17c8198d-4e67-4838-b18b-440cd2fdf37e/Proffy_Web.fig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200804T053236Z&X-Amz-Expires=86400&X-Amz-Signature=ba4ac9b73aca8c78671e5a872403d63b58e4ad69e3fd2d50b0ca57797173906d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Proffy_Web.fig%22">
         <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
